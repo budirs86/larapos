@@ -1,0 +1,2 @@
+# larapos
+Mini POS
